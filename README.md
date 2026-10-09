@@ -5,12 +5,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=700%2B+LeetCode+Problems+Solved;Exploring+Machine+Learning+%40+CampusX;Building+Real-Time+Applications;Learning+Backend+Engineering;Exploring+Distributed+Systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=700%2B+LeetCode+Problems+Solved;Exploring+Machine+Learning;Building+Real-Time+Applications;Learning+Backend+Engineering;Exploring+Distributed+Systems" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/armanagrawal">LinkedIn</a> •
-  <a href="[YOUR_LEETCODE_URL](https://leetcode.com/u/Arman_Agrawal/)">LeetCode</a> •
+  <a href="https://leetcode.com/u/Arman_Agrawal">LeetCode</a> •
   <a href="https://github.com/ArmanAgrawal">GitHub</a>
 </p>
 
@@ -52,13 +52,13 @@
 ### 🗄️ Databases, DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,github,linux,vscode" alt="Databases and developer tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,github,linux,vscode" alt="Databases and developer tool" />
 </p>
 
 ### 🧠 Machine Learning & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" alt="Machine learning technologies" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pandas" alt="Machine learning technologies" />
 </p>
 
 Currently exploring Machine Learning through **CampusX**, focusing on foundational concepts and practical implementation.
@@ -129,7 +129,7 @@ Currently exploring Machine Learning through **CampusX**, focusing on foundation
   <a href="https://leetcode.com/u/Arman_Agrawal">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/ArmanAgrawal">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
